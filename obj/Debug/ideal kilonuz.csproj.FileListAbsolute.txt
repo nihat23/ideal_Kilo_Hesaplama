@@ -1,0 +1,9 @@
+D:\VB\ideal kilonuz\bin\Debug\ideal kilonuz.exe.config
+D:\VB\ideal kilonuz\bin\Debug\ideal kilonuz.exe
+D:\VB\ideal kilonuz\bin\Debug\ideal kilonuz.pdb
+D:\VB\ideal kilonuz\obj\Debug\ideal kilonuz.csprojAssemblyReference.cache
+D:\VB\ideal kilonuz\obj\Debug\ideal_kilonuz.Form1.resources
+D:\VB\ideal kilonuz\obj\Debug\ideal_kilonuz.Properties.Resources.resources
+D:\VB\ideal kilonuz\obj\Debug\ideal kilonuz.csproj.GenerateResource.cache
+D:\VB\ideal kilonuz\obj\Debug\ideal kilonuz.exe
+D:\VB\ideal kilonuz\obj\Debug\ideal kilonuz.pdb
